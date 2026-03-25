@@ -1,0 +1,8 @@
+gradio
+numpy
+librosa
+moviepy==1.0.3
+imageio
+imageio-ffmpeg
+scikit-learn
+joblib 
